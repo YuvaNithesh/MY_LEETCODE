@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
+| [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
+| [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
