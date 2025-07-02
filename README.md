@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
