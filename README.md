@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
