@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
+| [0605-can-place-flowers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
