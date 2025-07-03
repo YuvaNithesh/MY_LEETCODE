@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
