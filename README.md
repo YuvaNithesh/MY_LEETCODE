@@ -143,16 +143,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
