@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Enumeration
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
