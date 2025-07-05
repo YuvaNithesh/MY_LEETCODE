@@ -1,7 +1,7 @@
 public class Solution {
     public int climbStairs(int n) {
-        if (n==1) return 1;
-        if (n==2) return 2;
+        if (n<=2) return n;
+        // if (n==2) return 2;
         int[] a=new int[n+1];
         a[1]=1;
         a[2]=2;
