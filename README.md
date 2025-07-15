@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
