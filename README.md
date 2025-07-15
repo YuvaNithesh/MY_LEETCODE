@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -178,4 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
