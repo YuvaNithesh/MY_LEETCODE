@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
