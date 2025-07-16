@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Memoization
 |  |
