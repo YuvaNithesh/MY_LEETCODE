@@ -200,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
