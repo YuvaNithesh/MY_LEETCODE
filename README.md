@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0020-valid-parentheses) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0141-linked-list-cycle) |
