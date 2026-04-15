@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -262,8 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
