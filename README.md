@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
