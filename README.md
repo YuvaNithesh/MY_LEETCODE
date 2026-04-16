@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
