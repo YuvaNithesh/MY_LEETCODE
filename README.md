@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
 | [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
+| [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
