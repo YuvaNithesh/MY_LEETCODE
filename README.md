@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0140-word-break-ii) |
+| [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 ## Combinatorics
 |  |
 | ------- |
@@ -354,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0140-word-break-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
