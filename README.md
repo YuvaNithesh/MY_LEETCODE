@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
