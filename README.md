@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0546-remove-boxes) |
 | [0605-can-place-flowers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
