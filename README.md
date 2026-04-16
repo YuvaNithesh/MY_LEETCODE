@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0221-maximal-square) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
