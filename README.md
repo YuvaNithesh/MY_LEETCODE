@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0664-strange-printer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0553-optimal-division) |
+| [0664-strange-printer](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
