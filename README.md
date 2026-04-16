@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0443-string-compression) |
+| [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [0649-dota2-senate](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -301,11 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
+| [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0207-course-schedule) |
+| [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
