@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
