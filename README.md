@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -398,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
