@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0969-number-of-recent-calls) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 ## Data Stream
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
 ## Ordered Set
 |  |
 | ------- |
