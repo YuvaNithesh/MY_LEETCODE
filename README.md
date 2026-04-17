@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1014-best-sightseeing-pair](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1024-video-stitching) |
+| [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
+| [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
