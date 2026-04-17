@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1278-palindrome-partitioning-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1278-palindrome-partitioning-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1278-palindrome-partitioning-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1278-palindrome-partitioning-iii) |
 ## Recursion
 |  |
 | ------- |
