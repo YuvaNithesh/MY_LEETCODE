@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0879-profitable-schemes) |
+| [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0553-optimal-division) |
 | [0837-new-21-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Enumeration
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
