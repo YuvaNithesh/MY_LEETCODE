@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
