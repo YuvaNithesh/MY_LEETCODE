@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1425-constrained-subsequence-sum) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Recursion
 |  |
 | ------- |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Bitmask
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Binary Indexed Tree
 |  |
 | ------- |
