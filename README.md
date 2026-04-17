@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Recursion
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Sorting
 |  |
