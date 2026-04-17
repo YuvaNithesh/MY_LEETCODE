@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
