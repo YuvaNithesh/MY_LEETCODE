@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 ## Memoization
 |  |
 | ------- |
@@ -525,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Ordered Set
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
