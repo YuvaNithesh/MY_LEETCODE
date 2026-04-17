@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1024-video-stitching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1024-video-stitching) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Math
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Memoization
 |  |
 | ------- |
