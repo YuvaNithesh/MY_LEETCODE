@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0553-optimal-division) |
 | [0837-new-21-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0837-new-21-game) |
+| [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Enumeration
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
