@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
