@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
+| [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
 ## Recursion
 |  |
 | ------- |
