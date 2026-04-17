@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Recursion
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Enumeration
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Binary Search Tree
 |  |
 | ------- |
