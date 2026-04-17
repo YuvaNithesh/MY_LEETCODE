@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
+| [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
+| [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 ## Math
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
+| [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
