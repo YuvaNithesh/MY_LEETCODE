@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
+| [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0818-race-car) |
+| [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
