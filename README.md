@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
 | [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Math
 |  |
 | ------- |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0837-new-21-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
