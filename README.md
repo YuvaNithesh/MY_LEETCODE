@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
