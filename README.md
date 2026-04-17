@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Recursion
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1024-video-stitching](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Math
 |  |
 | ------- |
