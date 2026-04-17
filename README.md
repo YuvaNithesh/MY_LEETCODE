@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
+| [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0546-remove-boxes) |
+| [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
