@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0838-push-dominoes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0838-push-dominoes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Sorting
