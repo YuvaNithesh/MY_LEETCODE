@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0837-new-21-game) |
+| [0978-longest-turbulent-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
