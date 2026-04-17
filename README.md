@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
+| [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Enumeration
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
 ## Binary Search Tree
 |  |
 | ------- |
