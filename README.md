@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1012-numbers-with-repeated-digits](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
+| [1012-numbers-with-repeated-digits](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Enumeration
