@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
 | [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
+| [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0837-new-21-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0837-new-21-game) |
 | [0838-push-dominoes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0838-push-dominoes) |
+| [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0443-string-compression) |
 | [0838-push-dominoes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0838-push-dominoes) |
+| [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
