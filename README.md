@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1035-uncrossed-lines](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Recursion
 |  |
 | ------- |
