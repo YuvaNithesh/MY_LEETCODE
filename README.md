@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0818-race-car) |
 | [0823-binary-trees-with-factors](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
