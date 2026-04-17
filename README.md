@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
+| [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
+| [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Recursion
 |  |
 | ------- |
@@ -587,10 +589,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1395-count-number-of-teams) |
 ## Rolling Hash
 |  |
 | ------- |
