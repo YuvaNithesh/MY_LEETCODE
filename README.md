@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Recursion
 |  |
 | ------- |
