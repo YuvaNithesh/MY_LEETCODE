@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0983-minimum-cost-for-tickets) |
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1014-best-sightseeing-pair](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
+| [1014-best-sightseeing-pair](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1014-best-sightseeing-pair) |
 ## Recursion
 |  |
 | ------- |
