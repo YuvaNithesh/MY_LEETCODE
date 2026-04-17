@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1463-cherry-pickup-ii) |
+| [1473-paint-house-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1473-paint-house-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1463-cherry-pickup-ii) |
+| [1473-paint-house-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1473-paint-house-iii) |
 ## Recursion
 |  |
 | ------- |
