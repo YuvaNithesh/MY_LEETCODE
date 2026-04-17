@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1340-jump-game-v) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0514-freedom-trail) |
 | [0834-sum-of-distances-in-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0894-all-possible-full-binary-trees](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
 |  |
