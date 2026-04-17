@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0935-knight-dialer](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
