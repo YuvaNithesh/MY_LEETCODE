@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## Recursion
 |  |
 | ------- |
