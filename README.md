@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
 |  |
 | ------- |
