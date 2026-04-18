@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
+| [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1048-longest-string-chain) |
+| [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Math
 |  |
 | ------- |
