@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
 | [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bitmask
 |  |
 | ------- |
