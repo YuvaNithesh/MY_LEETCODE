@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
+| [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1463-cherry-pickup-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1463-cherry-pickup-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
