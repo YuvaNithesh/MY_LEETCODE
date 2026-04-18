@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
+| [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0996-number-of-squareful-arrays) |
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
