@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Recursion
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0845-longest-mountain-in-array) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Number Theory
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Bitmask
 |  |
 | ------- |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-maximum-students-taking-exam](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1349-maximum-students-taking-exam) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 ## Binary Indexed Tree
 |  |
 | ------- |
