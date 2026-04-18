@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1668-maximum-repeating-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+| [1668-maximum-repeating-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -740,4 +742,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
+| [1668-maximum-repeating-substring](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
