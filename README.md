@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-find-all-good-strings](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1397-find-all-good-strings) |
 | [1416-restore-the-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1416-restore-the-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
 ## Recursion
 |  |
 | ------- |
