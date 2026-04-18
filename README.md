@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Sorting
 |  |
