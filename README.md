@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
 | [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Recursion
 |  |
 | ------- |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1013-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Tree
 |  |
 | ------- |
