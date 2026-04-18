@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
 | [1494-parallel-courses-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1494-parallel-courses-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1504-count-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1478-allocate-mailboxes) |
+| [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/0913-cat-and-mouse) |
 | [1025-divisor-game](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1510-stone-game-iv) |
 ## Monotonic Queue
 |  |
 | ------- |
