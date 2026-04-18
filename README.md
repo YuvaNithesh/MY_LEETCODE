@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2428-equal-row-and-column-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1531-string-compression-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Recursion
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/YuvaNithesh/MY_LEETCODE/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
